@@ -1,0 +1,177 @@
+{"time":"2026-10-02T21:53:15.9925765-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080"}
+{"time":"2026-10-02T21:53:16.0045773-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T21:53:56.126519-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:53:56.126519-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:57937","duration":"0s"}
+{"time":"2026-10-02T21:54:32.8584405-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:54:32.8584405-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:57973","duration":"0s"}
+{"time":"2026-10-02T21:54:39.1950557-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T21:54:39.1950557-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T21:57:16.4794167-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080"}
+{"time":"2026-10-02T21:57:16.4925594-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T21:57:22.4272005-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:22.4272005-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58864","duration":"0s"}
+{"time":"2026-10-02T21:57:26.3622509-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:26.3622509-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58868","duration":"0s"}
+{"time":"2026-10-02T21:57:29.6568487-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:29.6568487-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58871","duration":"0s"}
+{"time":"2026-10-02T21:57:30.3376069-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:30.3376069-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58873","duration":"0s"}
+{"time":"2026-10-02T21:57:30.8422225-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:30.8422225-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58874","duration":"0s"}
+{"time":"2026-10-02T21:57:31.3488568-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:31.3488568-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58875","duration":"0s"}
+{"time":"2026-10-02T21:57:31.8077836-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:31.8077836-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58876","duration":"0s"}
+{"time":"2026-10-02T21:57:32.2347731-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:32.2347731-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58878","duration":"0s"}
+{"time":"2026-10-02T21:57:32.6812368-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:32.6812368-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58879","duration":"0s"}
+{"time":"2026-10-02T21:57:33.0840476-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T21:57:33.0840476-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:58881","duration":"0s"}
+{"time":"2026-10-02T22:06:01.9841741-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:06:01.9841741-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:07:39.0010807-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080"}
+{"time":"2026-10-02T22:07:39.0141232-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:07:45.1269024-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:45.1274248-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59425","duration":"522.4µs"}
+{"time":"2026-10-02T22:07:47.433139-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:47.433139-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59428","duration":"0s"}
+{"time":"2026-10-02T22:07:48.8046489-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:48.8046489-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59430","duration":"0s"}
+{"time":"2026-10-02T22:07:49.4678659-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:49.4678659-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59432","duration":"0s"}
+{"time":"2026-10-02T22:07:49.9734968-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:49.9734968-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59433","duration":"0s"}
+{"time":"2026-10-02T22:07:50.504031-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:50.504031-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59434","duration":"0s"}
+{"time":"2026-10-02T22:07:51.0030326-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:51.0030326-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59435","duration":"0s"}
+{"time":"2026-10-02T22:07:51.5213594-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:51.5213594-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59436","duration":"0s"}
+{"time":"2026-10-02T22:07:52.0651765-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:52.0651765-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59438","duration":"0s"}
+{"time":"2026-10-02T22:07:52.582941-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:52.582941-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59440","duration":"0s"}
+{"time":"2026-10-02T22:07:53.0878154-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:53.0878154-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59441","duration":"0s"}
+{"time":"2026-10-02T22:07:53.6367033-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:53.6367033-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59442","duration":"0s"}
+{"time":"2026-10-02T22:07:54.1915765-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:54.1915765-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59443","duration":"0s"}
+{"time":"2026-10-02T22:07:54.739688-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:54.739688-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59445","duration":"0s"}
+{"time":"2026-10-02T22:07:55.280907-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:55.280907-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59447","duration":"0s"}
+{"time":"2026-10-02T22:07:55.7868578-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:55.7868578-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59448","duration":"0s"}
+{"time":"2026-10-02T22:07:56.3170877-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:56.3170877-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59449","duration":"0s"}
+{"time":"2026-10-02T22:07:56.8764795-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:56.8764795-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59450","duration":"0s"}
+{"time":"2026-10-02T22:07:57.39999-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:57.39999-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59451","duration":"0s"}
+{"time":"2026-10-02T22:07:57.9251667-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:57.9251667-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59453","duration":"0s"}
+{"time":"2026-10-02T22:07:58.4422874-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:07:58.4422874-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59455","duration":"0s"}
+{"time":"2026-10-02T22:09:21.11106-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:09:21.11106-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:09:23.6109311-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"downloads","yt-dlp_path":"yt-dlp"}
+{"time":"2026-10-02T22:09:23.6239611-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:09:45.5111972-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:09:45.5111972-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:09:46.828223-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"downloads","yt-dlp_path":"yt-dlp"}
+{"time":"2026-10-02T22:09:46.8407137-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:10:16.3348626-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:10:16.3348626-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:10:17.1393709-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"downloads","yt-dlp_path":"yt-dlp"}
+{"time":"2026-10-02T22:10:17.1535882-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:10:22.027947-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:10:22.027947-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:10:39.3160745-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"downloads","yt-dlp_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\\yt-dlp.exe"}
+{"time":"2026-10-02T22:10:39.329131-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:10:44.3379455-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:10:44.3379455-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59638","duration":"0s"}
+{"time":"2026-10-02T22:10:47.0964086-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:10:47.0964086-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59641","duration":"0s"}
+{"time":"2026-10-02T22:10:47.6576751-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:10:47.6576751-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59642","duration":"0s"}
+{"time":"2026-10-02T22:10:48.1800458-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:10:48.1800458-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59643","duration":"0s"}
+{"time":"2026-10-02T22:10:48.7344968-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:10:48.7344968-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59644","duration":"0s"}
+{"time":"2026-10-02T22:10:49.2113656-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:10:49.2113656-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59647","duration":"0s"}
+{"time":"2026-10-02T22:10:49.7121976-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:10:49.7121976-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59648","duration":"0s"}
+{"time":"2026-10-02T22:10:50.1392446-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:10:50.1402424-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59649","duration":"997.8µs"}
+{"time":"2026-10-02T22:10:52.1379133-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:10:52.1387604-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:11:02.2249666-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"downloads","yt-dlp_path":"yt-dlp"}
+{"time":"2026-10-02T22:11:02.2381177-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:16:12.5875395-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:16:12.5875395-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:59958","duration":"0s"}
+{"time":"2026-10-02T22:16:41.3154848-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:16:41.3154848-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:16:45.2802566-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"downloads","yt-dlp_path":"yt-dlp"}
+{"time":"2026-10-02T22:16:45.2932977-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:16:56.6501216-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:16:56.6501216-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:16:58.920082-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"downloads","yt-dlp_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\\yt-dlp.exe"}
+{"time":"2026-10-02T22:16:58.9331693-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:17:03.1433203-06:00","level":"WARN","msg":"JSON inválido","error":"invalid character '\\'' looking for beginning of value"}
+{"time":"2026-10-02T22:17:03.1433203-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":400,"remote":"[::1]:60012","duration":"0s"}
+{"time":"2026-10-02T22:17:41.2260548-06:00","level":"INFO","msg":"iniciando descarga de video","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ","format":"720p"}
+{"time":"2026-10-02T22:17:45.4517744-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4"}
+{"time":"2026-10-02T22:17:45.4523539-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":200,"remote":"[::1]:60038","duration":"4.2262991s"}
+{"time":"2026-10-02T22:25:16.6125829-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:25:16.6125829-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:25:42.2927676-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"downloads","yt-dlp_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\\yt-dlp.exe","ffmpeg_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-N-126374-g089a48eb36-win64-gpl\\bin\\ffmpeg.exe"}
+{"time":"2026-10-02T22:25:42.305696-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:26:01.9520793-06:00","level":"INFO","msg":"iniciando descarga de video","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ","format":"720p"}
+{"time":"2026-10-02T22:26:07.8257411-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4\nC:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4"}
+{"time":"2026-10-02T22:26:07.826292-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":200,"remote":"[::1]:60590","duration":"5.8742127s"}
+{"time":"2026-10-02T22:28:44.9709638-06:00","level":"INFO","msg":"iniciando descarga de video","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ","format":"720p"}
+{"time":"2026-10-02T22:28:48.9229704-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4\nC:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4"}
+{"time":"2026-10-02T22:28:48.9229704-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":200,"remote":"[::1]:60773","duration":"3.9520066s"}
+{"time":"2026-10-02T22:29:28.6163933-06:00","level":"INFO","msg":"iniciando descarga de video","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ","format":"720p"}
+{"time":"2026-10-02T22:29:34.0664177-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4\nC:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4"}
+{"time":"2026-10-02T22:29:34.0669676-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":200,"remote":"[::1]:60806","duration":"5.4505743s"}
+{"time":"2026-10-02T22:30:17.1463341-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:30:17.1463341-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:30:19.4657862-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads","yt-dlp_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\\yt-dlp.exe","ffmpeg_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-N-126374-g089a48eb36-win64-gpl\\bin\\ffmpeg.exe"}
+{"time":"2026-10-02T22:30:19.4795323-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:30:52.373157-06:00","level":"INFO","msg":"iniciando descarga de video","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ","format":"720p"}
+{"time":"2026-10-02T22:30:56.5879126-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4\nC:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4"}
+{"time":"2026-10-02T22:30:56.5884762-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":200,"remote":"[::1]:60891","duration":"4.2153192s"}
+{"time":"2026-10-02T22:33:11.2645986-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:33:11.2645986-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:33:13.5331689-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads","yt-dlp_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\\yt-dlp.exe","ffmpeg_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-N-126374-g089a48eb36-win64-gpl\\bin\\ffmpeg.exe"}
+{"time":"2026-10-02T22:33:13.5474339-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:33:37.1140939-06:00","level":"INFO","msg":"iniciando descarga de video","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ","format":"720p"}
+{"time":"2026-10-02T22:33:40.8991401-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4"}
+{"time":"2026-10-02T22:33:40.89966-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":200,"remote":"[::1]:61062","duration":"3.7855661s"}
+{"time":"2026-10-02T22:33:54.1575217-06:00","level":"INFO","msg":"iniciando descarga de video","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ","format":"720p"}
+{"time":"2026-10-02T22:34:00.1535321-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4"}
+{"time":"2026-10-02T22:34:00.1535321-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/videos","status":200,"remote":"[::1]:61079","duration":"5.9960104s"}
+{"time":"2026-10-02T22:34:43.8212716-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:34:43.8217823-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:37:08.09957-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads","yt-dlp_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\\yt-dlp.exe","ffmpeg_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-N-126374-g089a48eb36-win64-gpl\\bin\\ffmpeg.exe"}
+{"time":"2026-10-02T22:37:08.1126201-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:37:13.7394185-06:00","level":"INFO","msg":"iniciando descarga de musica","url":"https://www.youtube.com/watch?v=lSTQTc8EGs4","format":"mp3"}
+{"time":"2026-10-02T22:37:17.0296062-06:00","level":"ERROR","msg":"yt-dlp falló","error":"exit status 1","stderr":"WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location\n","args":["--no-playlist","-o","C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\%(title)s.%(ext)s","--print","after_move:filepath","-x","--audio-format","mp3","--audio-quality","0","https://www.youtube.com/watch?v=lSTQTc8EGs4"]}
+{"time":"2026-10-02T22:37:17.0296062-06:00","level":"ERROR","msg":"error al descargar musica","error":"Fallo la descarga del recurso: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location","url":"https://www.youtube.com/watch?v=lSTQTc8EGs4"}
+{"time":"2026-10-02T22:37:17.0296062-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/music","status":500,"remote":"[::1]:61255","duration":"3.2901877s"}
+{"time":"2026-10-02T22:42:06.9242851-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:42:06.9242851-06:00","level":"INFO","msg":"servidor detenido correctamente"}
+{"time":"2026-10-02T22:42:10.8353234-06:00","level":"INFO","msg":"iniciando aplicacion","env":"development","port":"8080","log_level":"info","log_file":"logs/app.log","download_dir":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads","yt-dlp_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\\yt-dlp.exe","ffmpeg_path":"C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-N-126374-g089a48eb36-win64-gpl\\bin\\ffmpeg.exe"}
+{"time":"2026-10-02T22:42:10.8484512-06:00","level":"INFO","msg":"servidor escuchando","addr":":8080"}
+{"time":"2026-10-02T22:42:21.6108337-06:00","level":"INFO","msg":"iniciando descarga de musica","url":"https://www.youtube.com/watch?v=lSTQTc8EGs4","format":"mp3"}
+{"time":"2026-10-02T22:42:26.0557806-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\.mp3"}
+{"time":"2026-10-02T22:42:26.0563643-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/music","status":200,"remote":"[::1]:61548","duration":"4.4455306s"}
+{"time":"2026-10-02T22:44:13.1538605-06:00","level":"INFO","msg":"iniciando descarga de musica","url":"https://www.youtube.com/watch?v=lSTQTc8EGs4","format":"mp4"}
+{"time":"2026-10-02T22:44:16.5649472-06:00","level":"INFO","msg":"descarga completada","file":"C:\\develop\\proyect_download_music\\backend\\cmd\\api\\downloads\\.m4a"}
+{"time":"2026-10-02T22:44:16.5649472-06:00","level":"INFO","msg":"peticion HTTP","method":"POST","path":"/api/v1/download/music","status":200,"remote":"[::1]:61694","duration":"3.4110867s"}
+{"time":"2026-10-02T22:48:16.1200937-06:00","level":"INFO","msg":"apagando servidor..."}
+{"time":"2026-10-02T22:48:16.1200937-06:00","level":"INFO","msg":"servidor detenido correctamente"}

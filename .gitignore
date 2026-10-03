@@ -1,0 +1,17 @@
+# Binarios
+*.exe
+/bin/
+backend-download-youtube
+
+# Descargas y logs
+/downloads/*
+!/downloads/.gitkeep
+/logs/*
+!/logs/.gitkeep
+
+# Entorno
+.env
+
+# IDE
+.idea/
+.vscode/
