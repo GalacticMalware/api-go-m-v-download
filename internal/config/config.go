@@ -25,8 +25,8 @@ func Load() *Config {
 		LogLevel:    getEnv("LOG_LEVEL", "info"),
 		LogFile:     getEnv("LOG_FILE", "logs/app.log"),
 		DownloadDir: getEnv("DOWNLOAD_DIR", "downloads"),
-		YTDLPPath:   getEnv("YTDLP_PATH", "C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\\yt-dlp.exe"),
-		FfmpegPath:  getEnv("FFMPEG_PATH", "C:\\Users\\Daniel Alejandro\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-N-126374-g089a48eb36-win64-gpl\\bin\\ffmpeg.exe"),
+		YTDLPPath:   getEnv("YTDLP_PATH", "path/yt-dlp"),
+		FfmpegPath:  getEnv("FFMPEG_PATH", "path/ffmpeg"),
 	}
 }
 
