@@ -5,7 +5,7 @@ package ports
 import (
 	"context"
 
-	"backend-download-youtube/internal/domain"
+	"backend-go-download-music-video/internal/domain"
 )
 
 // Downloader define el contrato para cualquier motor de descarga.

@@ -5,8 +5,8 @@ import (
 	"log/slog"
 	"strings"
 
-	"backend-download-youtube/internal/domain"
-	"backend-download-youtube/internal/ports"
+	"backend-go-download-music-video/internal/domain"
+	"backend-go-download-music-video/internal/ports"
 )
 
 // MusicUseCase maneja la logica de descarga de musica.

@@ -12,13 +12,13 @@ import (
 	"syscall"
 	"time"
 
-	"backend-download-youtube/internal/adapter/ytdlp"
-	"backend-download-youtube/internal/config"
-	"backend-download-youtube/internal/handler"
-	"backend-download-youtube/internal/middleware"
-	"backend-download-youtube/internal/router"
-	"backend-download-youtube/internal/usecase"
-	"backend-download-youtube/pkg/logger"
+	"backend-go-download-music-video/internal/adapter/ytdlp"
+	"backend-go-download-music-video/internal/config"
+	"backend-go-download-music-video/internal/handler"
+	"backend-go-download-music-video/internal/middleware"
+	"backend-go-download-music-video/internal/router"
+	"backend-go-download-music-video/internal/usecase"
+	"backend-go-download-music-video/pkg/logger"
 )
 
 func main() {

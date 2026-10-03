@@ -1,6 +1,6 @@
 # 🎬🎵 Video & Music Downloader API
 
-API REST escrita **100% en Go nativo** (sin frameworks) para descargar videos de YouTube en 720p/1080p y extraer audio en MP3/MP4.
+API REST escrita 100% en Go nativo (sin frameworks) para gestionar descargas de medios compatibles con plataformas como YouTube, en resoluciones 720p/1080p y formatos de audio MP3/MP4, destinada exclusivamente a contenido libre de derechos o con autorización del titular..
 
 Usa `yt-dlp` y `ffmpeg` como herramientas externas (invocadas vía `os/exec`), pero todo el servidor HTTP, enrutado, JSON y logging es Go puro (`net/http`, `log/slog`).
 

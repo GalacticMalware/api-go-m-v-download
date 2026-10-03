@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
-	"backend-download-youtube/internal/domain"
-	"backend-download-youtube/internal/usecase"
+	"backend-go-download-music-video/internal/domain"
+	"backend-go-download-music-video/internal/usecase"
 )
 
 // MusicHandler maneja las peticiones HTTP relacionadas con musica.

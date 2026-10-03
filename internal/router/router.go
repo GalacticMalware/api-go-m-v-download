@@ -4,7 +4,7 @@ package router
 import (
 	"net/http"
 
-	"backend-download-youtube/internal/handler"
+	"backend-go-download-music-video/internal/handler"
 )
 
 // NewRouter construye el enrutador con todas las rutas de la API.

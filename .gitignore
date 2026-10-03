@@ -1,7 +1,7 @@
 # Binarios
 *.exe
 /bin/
-backend-download-youtube
+backend-go-download-music-video
 
 # Descargas y logs
 /downloads/*
